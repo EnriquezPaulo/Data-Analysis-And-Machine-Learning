@@ -1,3 +1,3 @@
 # Data-Analysis-And-Machine-Learning
-This repository is a collection of simple projects using sample data to use for 
-some data cleaning, analysis and make predictions with using Machine Learning Algorithms
+Please see Used Car Analysis as this is the project im most proud of, I used most of the things i learned here, data preparation, data cleaning, some exploratory analysis
+
